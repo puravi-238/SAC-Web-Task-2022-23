@@ -7,11 +7,11 @@ For the next round of the selection process, you are required to complete atleas
 #### Que. 1
 #### Que. 2 
 
-## Group A: Frontend  
+## Group B: Frontend  
 #### Que. 3
 #### Que. 4
 
-## Group A: Backend 
+## Group C: Backend 
 #### Que. 5
 #### Que. 6
 
@@ -27,6 +27,7 @@ you could refer any sources, the ultimate goal is to learning things ^-^, but ma
 
 ## Submission Format
 We strongly encourage you to upload all your program files (appropriately named) and commit all the changes in respective github repositories and share the links to the following google document:
+
 It is advisable to learn and do task in your pace and insure your work depict your learning or via-versa and do submit all your work before deadline.
 
 All The best!
