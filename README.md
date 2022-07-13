@@ -5,19 +5,20 @@ For the next round of the selection process, you are required to complete atleas
 
 ## Group A: General Programming Questions 
 #### Que. 1
-Given an integer n, print all the Armstrong numbers between the range [1,n] (inclusive). An Armstrong number is a positive n-digit number that is equal to the sum of the nth powers of their digits.<br /> Example : 1^3 + 5^3 + 3^3 = 153<br />
+Given an integer n, print all the Armstrong numbers between the range [1,n] (inclusive).<br />
+An Armstrong number is a positive n-digit number that is equal to the sum of the nth powers of their digits.<br /> Example : 1^3 + 5^3 + 3^3 = 153<br />
 Available languages: C, C++ (without STL), python, JAVA, JavaScript.
 
 #### Que. 2 
-Spiral Question: Given an integer n, Make a spiral matrix 
-Example 1: Input: 5
+Spiral Question: Given an integer n, Make a spiral matrix<br /> 
+Example 1: Input: 5<br />
 Output: 1  2  3  4  5<br />
         16  17  18  19  6<br />
         15  24  25  20  7<br />
         14  23  22  21  8<br />
         13  12  11  10  9<br />
 
-Example 2: Input 7
+Example 2: Input 7<br />
 Output: 1  2  3  4  5  6  7<br />
         24  25  26  27  28  29  8<br />
         23  40  41  42  43  30  9<br />
@@ -25,10 +26,11 @@ Output: 1  2  3  4  5  6  7<br />
         21  38  47  46  45  32  11<br />
         20  37  36  35  34  33  12<br />
         19  18  17  16  15  14  13<br />
+Available languages: C, C++ (without STL), python, JAVA, JavaScript.
 
 ## Group B: Frontend  
 #### Que. 3
-Clone the following web-page Profile (Destop Version, First Page).
+Clone the following web-page Profile (Destop Version, First Page).<br />
 Requirements : HTML , CSS, Frameworks(such as Bootstrap, Materialize, etc.)
 
 #### Que. 4
