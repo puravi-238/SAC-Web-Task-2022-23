@@ -35,7 +35,7 @@ Requirements : HTML , CSS, Frameworks(such as Bootstrap, Materialize, etc.)
 
 #### Que. 4
 Create a web page  which is given below using plain HTML, CSS.<br/>You are also allowed to use frameworks like Bootstrap, Material UI. and Make it responsive.<br/>
-![image](https://myoctocat.com/assets/images/base-octocat.svg)
+![image](https://drive.google.com/file/d/1u3WodxfcEYzEgY2mighayBkT05WJ2T09/view?usp=sharing)
 
 ## Group C: Backend 
 #### Que. 5
