@@ -30,7 +30,7 @@ Available languages: C, C++ (without STL), python, JAVA, JavaScript.
 
 ## Group B: Frontend  
 #### Que. 3
-Clone the following web-page Profile (Destop Version, First Page).<br />
+Clone the following web-page [Profile](https://codeforces.com/profile/tourist) (Destop Version, First Page).<br />
 Requirements : HTML , CSS, Frameworks(such as Bootstrap, Materialize, etc.)
 
 #### Que. 4
