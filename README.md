@@ -40,10 +40,10 @@ Create a web page  which is given below using plain HTML, CSS.<br/>You are also 
 ## Group C: Backend 
 #### Que. 5
 #### Que. 6
-Nodejs Task | Application for the Jobs:
-Create a form that asks for Name, Contact Information(can be Email, Phone number), Qualifications, Cover letter, Availability, and assessment aspects for the application and stores the data in MongoDB.Try ensuring the security aspects, so as to keep the credentials like the MongoDB key, secure. Hosting the application on Heroku and making the page responsive would be a bonus.
+Nodejs Task | Application for the Jobs:<br/>
+Create a form that asks for Name, Contact Information(can be Email, Phone number), Qualifications, Cover letter, Availability, and assessment aspects for the application and stores the data in MongoDB.Try ensuring the security aspects, so as to keep the credentials like the MongoDB key, secure. Hosting the application on Heroku and making the page responsive would be a bonus.<br/>
 You can take reference from below, you need not design the same as given in the images, but ensure the availability of the fields mentioned above, Submit button should not work unless all the fields are filled up.<br/>
-<img src="https://github.com/puravi-238/SAC-Web-Task-2022-23/blob/main/htmltask.png" width="600" height="400" />
+<img src="https://github.com/puravi-238/SAC-Web-Task-2022-23/blob/main/nodetask.png" width="400" height="500" />
 
 ## Refrence Materials
 you could refer any sources, the ultimate goal is to learning things ^-^, but make sure to be honest in yourself. here are some links.....We suggest to look it up if you are new to web dev....
@@ -56,7 +56,7 @@ you could refer any sources, the ultimate goal is to learning things ^-^, but ma
 6. PHP: https://www.php.net/manual/en/index.php
 
 ## Submission Format
-Make respective github repositories to the questions and share the link to the following google document: [form](http:/link there)<br/>
+Make respective github repositories to the questions and share the link to the following google document: [form](http://linkthere.com)<br/>
 (We strongly encourage you to upload all your program files (appropriately named) and commit all the changes in respective github repositories)<br/>
 
 It is advisable to learn and do task in your pace and insure your work depict your learning or via-versa and do submit all your work before deadline.<br/>
