@@ -47,7 +47,8 @@ and end with ‘n’
 should contain ‘a’ and ‘i’ without ‘e’
 3. Write a query to display all employees information those who are without comm and with sal.
 4. Display all employees information from that job where average sal of job is less than 1200
-5. Display second highest salaried employee/employees complete information from EMP table.
+5. Display second highest salaried employee/employees complete information from EMP table.<br/>
+write all the command in single page(txt file,doc,doc) you can also add screenshots in it(not mandatory) and push it in github repositorie
 
 #### Que. 6
 Nodejs Task | Application for the Jobs:<br/>
@@ -56,7 +57,7 @@ You can take reference from below, you need not design the same as given in the 
 <img src="https://github.com/puravi-238/SAC-Web-Task-2022-23/blob/main/nodetask.png" width="400" height="500" />
 
 ## Refrence Materials
-you could refer any sources, the ultimate goal is to learning things ^-^, but make sure to be honest in yourself. here are some links.....We suggest to look it up if you are new to web dev....
+you could refer any sources, the ultimate goal is to learning things ^-^, but make sure to be honest in yourself. here are some links.....We suggest to look it up considering you are new to web dev....
 
 1. HTML and CSS: https://youtube.com/playlist?list=PL4cUxeGkcC9ivBf_eKCPIAYXWzLlPAm6G
 2. Git and Github: https://youtube.com/playlist?list=PL4cUxeGkcC9goXbgTDQ0n_4TBzOO0ocPR
@@ -67,7 +68,7 @@ you could refer any sources, the ultimate goal is to learning things ^-^, but ma
 7. SQL: https://docs.data.world/documentation/sql/concepts/basic/intro.html
 
 ## Submission Format
-Make respective github repositories to the questions and share the link to the following google document: [form](https://docs.data.world/documentation/sql/concepts/basic/intro.html)<br/>
+Make respective github repositories to the questions and share the link to the following google document: [form](https://docs.google.com/forms/d/e/1FAIpQLSc8FoFoeAG0iddWES9ch5jYSlclnlMdCgqdiYXV1BOz2Ewa8w/viewform?usp=sf_link)<br/>
 (We strongly encourage you to upload all your program files (appropriately named) and commit all the changes in respective github repositories)<br/>
 
 It is advisable to learn and do task in your pace and insure your work depict your learning or via-versa and do submit all your work before deadline.<br/>
