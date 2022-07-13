@@ -35,7 +35,7 @@ Requirements : HTML , CSS, Frameworks(such as Bootstrap, Materialize, etc.)
 
 #### Que. 4
 Create a web page  which is given below using plain HTML, CSS.<br/>You are also allowed to use frameworks like Bootstrap, Material UI. and Make it responsive.<br/>
-![image](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![image](https://github.com/puravi-238/SAC-Web-Task-2022-23/blob/main/htmltask.png?raw=true)
 
 ## Group C: Backend 
 #### Que. 5
@@ -52,7 +52,7 @@ you could refer any sources, the ultimate goal is to learning things ^-^, but ma
 6. PHP: https://www.php.net/manual/en/index.php
 
 ## Submission Format
-Make respective github repositories to the questions and share the link to the following google document: [form](link there)<br/>
+Make respective github repositories to the questions and share the link to the following google document: [form](http:/link there)<br/>
 (We strongly encourage you to upload all your program files (appropriately named) and commit all the changes in respective github repositories)<br/>
 
 It is advisable to learn and do task in your pace and insure your work depict your learning or via-versa and do submit all your work before deadline.<br/>
