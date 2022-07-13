@@ -39,7 +39,7 @@ Create a web page  which is given below using plain HTML, CSS.<br/>You are also 
 
 ## Group C: Backend 
 #### Que. 5
-SQL | Employee table questions:
+SQL | Employee table questions:<br/>
 Create an employee table according to your understanding on the columns and answer below questions
 1. Write a query to display employees information from emp table where ename start
 and end with ‘n’
@@ -64,9 +64,10 @@ you could refer any sources, the ultimate goal is to learning things ^-^, but ma
 4. React: https://reactjs.org/docs/getting-started.html
 5. Node: https://nodejs.dev/learn
 6. PHP: https://www.php.net/manual/en/index.php
+7. SQL: https://docs.data.world/documentation/sql/concepts/basic/intro.html
 
 ## Submission Format
-Make respective github repositories to the questions and share the link to the following google document: [form](http://linkthere.com)<br/>
+Make respective github repositories to the questions and share the link to the following google document: [form](https://docs.data.world/documentation/sql/concepts/basic/intro.html)<br/>
 (We strongly encourage you to upload all your program files (appropriately named) and commit all the changes in respective github repositories)<br/>
 
 It is advisable to learn and do task in your pace and insure your work depict your learning or via-versa and do submit all your work before deadline.<br/>
