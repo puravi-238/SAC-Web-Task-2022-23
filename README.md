@@ -39,9 +39,19 @@ Create a web page  which is given below using plain HTML, CSS.<br/>You are also 
 
 ## Group C: Backend 
 #### Que. 5
+SQL | Employee table questions:
+Create an employee table according to your understanding on the columns and answer below questions
+1. Write a query to display employees information from emp table where ename start
+and end with ‘n’
+2. Write a query to display all employees’ information from emp table where employee ename
+should contain ‘a’ and ‘i’ without ‘e’
+3. Write a query to display all employees information those who are without comm and with sal.
+4. Display all employees information from that job where average sal of job is less than 1200
+5. Display second highest salaried employee/employees complete information from EMP table.
+
 #### Que. 6
 Nodejs Task | Application for the Jobs:<br/>
-Create a form that asks for Name, Contact Information(can be Email, Phone number), Qualifications, Cover letter, Availability, and assessment aspects for the application and stores the data in MongoDB.Try ensuring the security aspects, so as to keep the credentials like the MongoDB key, secure. Hosting the application on Heroku and making the page responsive would be a bonus.<br/>
+Create a form that asks for Name, Contact Information(can be Email, Phone number), Qualifications, Cover letter, Availability, and assessment aspects for the application and stores the data in MongoDB. Try ensuring the security aspects, so as to keep the credentials like the MongoDB key, secure. Hosting the application on Heroku and making the page responsive would be a bonus.<br/>
 You can take reference from below, you need not design the same as given in the images, but ensure the availability of the fields mentioned above, Submit button should not work unless all the fields are filled up.<br/>
 <img src="https://github.com/puravi-238/SAC-Web-Task-2022-23/blob/main/nodetask.png" width="400" height="500" />
 
