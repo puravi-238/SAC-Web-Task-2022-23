@@ -35,7 +35,7 @@ Requirements : HTML , CSS, Frameworks(such as Bootstrap, Materialize, etc.)
 
 #### Que. 4
 Create a web page  which is given below using plain HTML, CSS.<br/>You are also allowed to use frameworks like Bootstrap, Material UI. and Make it responsive.<br/>
-![image](https://github.com/puravi-238/SAC-Web-Task-2022-23/blob/main/htmltask.png?raw=true)
+![image](https://github.com/puravi-238/SAC-Web-Task-2022-23/blob/main/htmltask.png?raw=true | width=100)
 
 ## Group C: Backend 
 #### Que. 5
