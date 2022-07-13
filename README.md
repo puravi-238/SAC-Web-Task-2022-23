@@ -34,7 +34,7 @@ Clone the following web-page [Profile](https://codeforces.com/profile/tourist) (
 Requirements : HTML , CSS, Frameworks(such as Bootstrap, Materialize, etc.)
 
 #### Que. 4
-Create a web page  which is given below using plain HTML, CSS.<br/>You are also allowed to use frameworks like Bootstrap, Material UI. and Make it responsive.
+Create a web page  which is given below using plain HTML, CSS.<br/>You are also allowed to use frameworks like Bootstrap, Material UI. and Make it responsive.<br/>
 ![image](https://myoctocat.com/assets/images/base-octocat.svg)
 
 ## Group C: Backend 
