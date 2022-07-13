@@ -40,6 +40,10 @@ Create a web page  which is given below using plain HTML, CSS.<br/>You are also 
 ## Group C: Backend 
 #### Que. 5
 #### Que. 6
+Nodejs Task | Application for the Jobs:
+Create a form that asks for Name, Contact Information(can be Email, Phone number), Qualifications, Cover letter, Availability, and assessment aspects for the application and stores the data in MongoDB.Try ensuring the security aspects, so as to keep the credentials like the MongoDB key, secure. Hosting the application on Heroku and making the page responsive would be a bonus.
+You can take reference from below, you need not design the same as given in the images, but ensure the availability of the fields mentioned above, Submit button should not work unless all the fields are filled up.<br/>
+<img src="https://github.com/puravi-238/SAC-Web-Task-2022-23/blob/main/htmltask.png" width="600" height="400" />
 
 ## Refrence Materials
 you could refer any sources, the ultimate goal is to learning things ^-^, but make sure to be honest in yourself. here are some links.....We suggest to look it up if you are new to web dev....
@@ -57,4 +61,4 @@ Make respective github repositories to the questions and share the link to the f
 
 It is advisable to learn and do task in your pace and insure your work depict your learning or via-versa and do submit all your work before deadline.<br/>
 
-All The best!
+All The Best!
