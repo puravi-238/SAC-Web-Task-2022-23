@@ -1,7 +1,7 @@
 # SAC | Web-Task | 2022-23
 Greetings from Students' Alumni Cell!
 
-For the next round of the selection process, you are required to complete atleast 1 question from each group i.e, total 3 questions one from each group.
+For the next round of the selection process, you are required to complete atleast 1 question from each group i.e, total 3 questions, one from each group.
 
 ## Group A: General Programming Questions 
 #### Que. 1
@@ -12,14 +12,14 @@ Available languages: C, C++ (without STL), python, JAVA, JavaScript.
 #### Que. 2 
 Spiral Question: Given an integer n, Make a spiral matrix<br /> 
 Example 1: Input: 5<br />
-Output: 1  2  3  4  5<br />
+Output:<br /> 1  2  3  4  5<br />
         16  17  18  19  6<br />
         15  24  25  20  7<br />
         14  23  22  21  8<br />
         13  12  11  10  9<br />
 
 Example 2: Input 7<br />
-Output: 1  2  3  4  5  6  7<br />
+Output:<br /> 1  2  3  4  5  6  7<br />
         24  25  26  27  28  29  8<br />
         23  40  41  42  43  30  9<br />
         22  39  48  49  44  31  10<br />
