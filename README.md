@@ -1,7 +1,7 @@
 # SAC | Web-Task | 2022-23
 Greetings from Students' Alumni Cell!
 
-For the next round of the selection process, you are required to complete atleast total 3 questions, one from each group i.e, 1 question from each group.
+For the next round of the selection process, you are required to complete atleast 3 questions, one from each group i.e, 1 question from each group.
 
 ## Group A: General Programming Questions 
 #### Que. 1
