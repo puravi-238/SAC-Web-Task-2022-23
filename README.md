@@ -72,5 +72,6 @@ Make respective github repositories to the questions and share the link to the f
 (We strongly encourage you to upload all your program files (appropriately named) and commit all the changes in respective github repositories)<br/>
 
 It is advisable to learn and do task in your pace and insure your work depict your learning or via-versa and do submit all your work before deadline.<br/>
+Deadline: 23:59, 25 July 
 
 All The Best!
